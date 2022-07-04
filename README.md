@@ -25,8 +25,5 @@ To run the files, run `node lessons/<lesson-filename>.js`.
 >
 > For the `jest.test.js` one, run `npx jest`.
 
-kentcdodds/js-testing-fundamentals/commits?author=pbzona" title="Documentation">📖</a></td>
-  </tr>
-</table>
 
 
