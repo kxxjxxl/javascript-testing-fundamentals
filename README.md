@@ -4,7 +4,7 @@
 
 
 <p align="center" style="font-size: 1.2rem;">
-  Learning how automated JavaScript testing works by building your own framework!
+  Learning how automated JavaScript testing works by building my own framework and stuff.
 </p>
 
 <hr />
@@ -26,4 +26,5 @@ To run the files, run `node lessons/<lesson-filename>.js`.
 > For the `jest.test.js` one, run `npx jest`.
 
 
+This is material for me to look back for refrence
 
